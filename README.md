@@ -1,6 +1,6 @@
-# Spring Java with PostgreSQL
+# Microservice Java Spring Boot with PostgreSQL
 
-Project sederhana Java yang terhubung ke PostgreSQL untuk mengelola data.
+Project sederhana Java Spring Boot dengan arsitektur microservice yang terhubung ke PostgreSQL untuk mengelola data.
 
 ## Fitur
 - Tambah title dan description
@@ -10,7 +10,7 @@ Project sederhana Java yang terhubung ke PostgreSQL untuk mengelola data.
 - Spring Boot
 - Java
 - PostgreSQL
-- Redis
+- Redis (optional)
 - JUnit
 
 ## Cara Menjalankan
