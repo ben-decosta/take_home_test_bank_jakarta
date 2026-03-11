@@ -8,11 +8,20 @@ Project sederhana Java Spring Boot dengan arsitektur microservice yang terhubung
 
 ## Teknologi
 - Spring Boot
+- Spring Data JPA + Postgresql
 - Java
-- PostgreSQL
+- Lombok
 - Redis (optional)
 - JUnit
 
 ## Cara Menjalankan
 1. Import `database/schema.sql` di PostgreSQL
 2. Jalankan `Main.java`
+
+### Endpoint
+## Insert
+- Method: POST
+- URL: /api/addBook
+## Get All
+- Method: GET
+- URL: /api/allBooks
