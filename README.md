@@ -1,4 +1,4 @@
-# Java PostgreSQL
+# Spring Java with PostgreSQL
 
 Project sederhana Java yang terhubung ke PostgreSQL untuk mengelola data.
 
@@ -7,6 +7,7 @@ Project sederhana Java yang terhubung ke PostgreSQL untuk mengelola data.
 - Lihat semua data
 
 ## Teknologi
+- Spring Boot
 - Java
 - PostgreSQL
 - Redis
