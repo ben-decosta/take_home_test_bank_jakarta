@@ -18,7 +18,7 @@ Project sederhana Java Spring Boot dengan arsitektur microservice yang terhubung
 1. Import `database/schema.sql` di PostgreSQL
 2. Jalankan `Main.java`
 
-# Endpoint
+
 ## Insert
 - Method: POST
 - URL: /api/addBook
